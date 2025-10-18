@@ -146,5 +146,3 @@ For any questions or inquiries, please visit the [About Me](https://polycaman.gi
 ---
 
 ⭐ If you find this blog helpful, consider giving it a star!
-
-*Last Updated: 2021*
